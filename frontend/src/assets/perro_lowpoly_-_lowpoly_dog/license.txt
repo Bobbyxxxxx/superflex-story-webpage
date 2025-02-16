@@ -1,0 +1,11 @@
+Model Information:
+* title:	Perro Lowpoly - lowpoly dog
+* source:	https://sketchfab.com/3d-models/perro-lowpoly-lowpoly-dog-a5e68d1f73d74a0f959150be8d0ca31c
+* author:	Harold.Llanos (https://sketchfab.com/Harold.Llanos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Perro Lowpoly - lowpoly dog" (https://sketchfab.com/3d-models/perro-lowpoly-lowpoly-dog-a5e68d1f73d74a0f959150be8d0ca31c) by Harold.Llanos (https://sketchfab.com/Harold.Llanos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

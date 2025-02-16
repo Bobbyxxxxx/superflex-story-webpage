@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Man Walk Cycle
+* source:	https://sketchfab.com/3d-models/old-man-walk-cycle-12e139bf1a6d49ecb02554e4e006de60
+* author:	Karin.Granlund (https://sketchfab.com/Karin.Granlund)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Man Walk Cycle" (https://sketchfab.com/3d-models/old-man-walk-cycle-12e139bf1a6d49ecb02554e4e006de60) by Karin.Granlund (https://sketchfab.com/Karin.Granlund) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
